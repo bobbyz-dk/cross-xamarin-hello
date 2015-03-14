@@ -1,0 +1,12 @@
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\bin\iPhoneSimulator\Debug\HelloWorldXamariniOS.exe
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\bin\iPhoneSimulator\Debug\HelloWorldXamariniOS.pdb
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\bin\iPhoneSimulator\Debug\ClassLibrary1.dll
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\bin\iPhoneSimulator\Debug\ClassLibrary1.pdb
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard.storyboardc\Info.plist
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard.storyboardc\UIViewController-vXZ-lx-hvc.nib
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\obj\iPhoneSimulator\Debug\ibtool\MainStoryboard.storyboardc\vXZ-lx-hvc-view-kh9-bI-dsS.nib
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\obj\iPhoneSimulator\Debug\Default-568h@2x.png
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\obj\iPhoneSimulator\Debug\HelloWorldXamariniOS.csprojResolveAssemblyReference.cache
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\obj\iPhoneSimulator\Debug\HelloWorldXamariniOS.exe
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\obj\iPhoneSimulator\Debug\HelloWorldXamariniOS.pdb
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamariniOS\bin\iPhoneSimulator\Debug\ClassLibrary1.dll.mdb

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BNPCI5</Machine>
+    <WindowsUser>Bobby</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>517df885-6c8a-49e7-9a22-b4287780135f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\bin\Debug\HelloWorldXamarinWP.exe">
+      <PackagePath>HelloWorldXamarinWP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\ClassLibrary1\bin\Debug\ClassLibrary1.dll">
+      <PackagePath>ClassLibrary1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\bin\Debug\HelloWorldXamarinWP.xr.xml">
+      <PackagePath>HelloWorldXamarinWP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

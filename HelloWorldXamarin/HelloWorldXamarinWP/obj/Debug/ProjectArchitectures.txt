@@ -1,0 +1,2 @@
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\ClassLibrary1\ClassLibrary1.csproj;neutral
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinWP\HelloWorldXamarinWP.csproj;neutral

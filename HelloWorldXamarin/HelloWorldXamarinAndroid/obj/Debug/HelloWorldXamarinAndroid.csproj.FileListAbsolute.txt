@@ -1,0 +1,17 @@
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\HelloWorldXamarinAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\bin\Debug\HelloWorldXamarinAndroid.dll
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\bin\Debug\HelloWorldXamarinAndroid.pdb
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\bin\Debug\HelloWorldXamarinAndroid.dll.mdb
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\bin\Debug\HelloWorldXamarinAndroid.HelloWorldXamarinAndroid.apk
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\bin\Debug\HelloWorldXamarinAndroid.HelloWorldXamarinAndroid-Signed.apk
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\bin\Debug\ClassLibrary1.dll
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\bin\Debug\ClassLibrary1.pdb
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\bin\Debug\ClassLibrary1.dll.mdb
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\HelloWorldXamarinAndroid.dll
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\HelloWorldXamarinAndroid.pdb
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\android\bin\HelloWorldXamarinAndroid.HelloWorldXamarinAndroid.apk
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\res\layout\main.xml
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\R.cs.flag
+C:\Users\Bobby\Documents\Visual Studio 2015\Projects\HelloWorldXamarin\HelloWorldXamarinAndroid\obj\Debug\uploadflags.txt
