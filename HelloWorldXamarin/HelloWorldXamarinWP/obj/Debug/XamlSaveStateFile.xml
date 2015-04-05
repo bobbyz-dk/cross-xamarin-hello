@@ -1,6 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\bobby\documents\visual studio 2015\projects\helloworldxamarin\helloworldxamarinwp\obj\debug\intermediatexaml\helloworldxamarinwp.exe" HashGuid="53d60b7a-934c-6fd0-fbd3-63e82e02b85a" />
-    <ReferenceAssembly PathName="c:\users\bobby\documents\visual studio 2015\projects\helloworldxamarin\classlibrary1\bin\debug\classlibrary1.dll" HashGuid="60d61ef4-3d36-9755-a94f-48fc8d8fb703" />
+    <ReferenceAssembly PathName="c:\master-dev\cross-xamarin-hello\helloworldxamarin\classlibrary1\bin\debug\classlibrary1.dll" HashGuid="60d61ef4-3d36-9755-a94f-48fc8d8fb703" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
